@@ -1,4 +1,10 @@
-### Hi there 👋
+# Lúbia Oliveira
+
+Seja bem-vindo!
+
+Me chamo Lúbia, sou desenvolvedora front-end. Estou na área de TI desde 2020, e além de front-end, já trabalhei com programação para mainframe, suporte e design.
+Formada em Análise e Desenvolvimento de Sistemas na FATEC PG e técnica em Informática para Internet pela ETEC PG.
+Gosto de lidar com o desenvolvimento de softwares, mas gestão de projetos também é algo que almejo.
 
 <!--
 **lubiaoliveira01/lubiaoliveira01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
