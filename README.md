@@ -1,6 +1,8 @@
 # Lúbia Oliveira
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lubiaoliveira01&show_icons=true&theme=dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lubiaoliveira01&layout=compact&langs_count=8&theme=dark)
+<div style="display: inline_block">
+  <img width="52.5%" src="https://github-readme-stats.vercel.app/api?username=lubiaoliveira01&show_icons=true&theme=dark">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lubiaoliveira01&layout=compact&langs_count=8&theme=dark">
+</div>
 
 Seja bem-vindo!
 
@@ -17,4 +19,10 @@ Gosto de lidar com o desenvolvimento de softwares, mas gestão de projetos tamb�
   <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-</div><br/>
+</div>
+
+##
+
+<div> 
+  <a href="https://www.linkedin.com/in/lúbia-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
